@@ -1,5 +1,14 @@
 # PHP-CRUD
-Um projeto que criei para realizar um exercício da minha matéria de programação para WEB da Etec da Zona Leste, e tive como base o curso de PHP  do site ![NodeStudio](https://www.nodestudio.com.br) .
+Um projeto que criei para realizar um exercício da minha matéria de programação para WEB da Etec da Zona Leste, e tive como base o curso de PHP do site [NodeStudio](https://www.nodestudio.com.br).
+
+---
+
+# Utilidade
+O projeto cadastra clientes, também é possível consultá-los, os editar e excluí-los.
+
+---
+
+# O projeto:
 
 ---
 
